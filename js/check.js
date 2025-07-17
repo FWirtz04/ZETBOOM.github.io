@@ -1,1 +1,0 @@
-(function(){new Image().src = '/.well-known/ddos-guard/id/cW9d6s4ceZUHMMiu'; new Image().src='https://check.ddos-guard.net/set/id/cW9d6s4ceZUHMMiu';})()
